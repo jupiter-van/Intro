@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Van
 - 👀 I’m interested in kms/ kvm / / rode bike
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning 《深入集群-大型数据中心资源调度和管理》
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
